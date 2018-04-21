@@ -1,0 +1,20 @@
+{"visit": [
+  {
+    "label": "Desktop",
+    "data": 100
+  },
+  {
+    "label": "Tablet",
+    "data": 150
+  },
+  {
+    "label": "Mobile",
+    "data": 230
+  },
+  {
+    "label": "Others",
+    "data": 150
+  }
+
+]
+}
