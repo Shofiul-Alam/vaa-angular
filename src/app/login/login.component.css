@@ -38,3 +38,10 @@
         width: 90%;
     }
 }
+
+.form-group {
+  margin-bottom:7px;
+}
+input {
+  font-size: 12px;
+}
